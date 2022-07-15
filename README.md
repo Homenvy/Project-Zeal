@@ -1,45 +1,12 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+This is my first repository on GitHub. I am using this to help me understand and better navigate GitHub. This will also be where I put up a general overview of who I am and snapshots of projects I have worked on.
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+I am Michael Ess-Haghabodi. I was born on September 6th 1988 on the cusp of the digital revolution. As a child I did not have much interaction with what computers are known as today, but have had experiences involving handhelds (Gameboy, GameGear) and consoles that were available. I got my first pc around the age of 10 and did various tasks with it to figure it out. This includes taking it apart, putting it back together. Updating the software on it or bringing it up to date. Wiping the hard drives and reinstalling the OS and other necessary software. This lead me to go into a computer focused curriculum for both IT and CS. I wanted to be a jack of all trades when it came to computing. 
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+I was born in America. For the first 18 years of my life I lived in the city of Las Vegas, Nevada. Then I moved to Colorado Springs, CO where I attended college for Computer Science. I performed various sales and customer service call center jobs here as they were a popular state for call centers. I was then offered an IT Tech position where I would setup an infrastructure in a Datacenter for a startup. This involved racking up the machines, setting up the software on them for whatever they were used for (Windows and Linux hybrid environment) and making sure they were ready to be remoted into and for rendering. Eventually I moved to San Francisco, CA for personal reasons and worked for a company called Raptr. Raptr was a company that had their own social media platform for gaming. It is now known as Medal.tv. I worked on the optimization side for the software, benchmarking games on various hardware configurations to get the best settings based upon the client pc hardware.
 
----
+While doing these jobs, I had a healthy gaming setup. I was a guild master in various social games. I would direct, lead, shotcall and manage a guild of up to 100 people. This included meeting them on a social platform (like discord) and see if they were a good fit to the guild. It was like a job, but performed for free since it was a hobby. This lead to me developing many utilities to assist the guild's endeavors. This helped me practice in various types of coding and experience various concepts. Since I developed things before the age of remote repositiories, a lot of my work is on old hard drives. I have posted the projects that are recent or I have access too still. Some of these projects contain sensitive information and are not listed on this GitHub. 
 
-## Edit a file
+Project Zeal is my overhead project. It involves the projects I have worked on that I can say enhanced my progress in coding. I am an efficient individual and have worked with various persona for fun or professionally. I am not stressed easily and am very chill and easy to get along with. I enjoy collabing with others, as I am currently collabing with others in some of these projects I am on. These projects are not stable forms of income, however. 
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+If you have made it this far, thank you! I realized I needed an online repo to showcase what I have worked on. I have programmed long enough to understand when/where/how to get things done. If I know it, I can pull it from my mind. If I come across situations where I need help, I know where I can get it. I can work alone or with a group. It is hard to say how long I have been doing programming work since I also do projects in IT / Networking. I feel all 3 categories tie into each other as if you can set up an infrastructure, you need to know how to manage software, even to a point of reading it and adjusting it for needs. Networking can only exist with hardware communicating with other hardware, which follows a software layer base standard. I have trained to understand how they interact and how to perform adequately in each to better the flow of my infrastructures.
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
-
----
-
-## Create a file
-
-Next, you’ll add a new file to this repository.
-
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
-
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
----
-
-## Clone a repository
-
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
-
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
